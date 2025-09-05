@@ -6,4 +6,4 @@ Event Registration management system
 ![Sequence Diagram](./images/Sequence-Diagram.png)
 
 ### 3. Class Diagram
-![Class Diagram](./images/Class-Diagram.png)
+![Class Diagram](class diagram.png)
