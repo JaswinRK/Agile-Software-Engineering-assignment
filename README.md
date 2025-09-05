@@ -6,4 +6,4 @@ Event Registration management system
 ![Sequence Diagram](./images/Sequence-Diagram.png)
 
 ### 3. Class Diagram
-![Class Diagram](class diagram.png)
+![Class Diagram]([class diagram.png](https://github.com/JaswinRK/Agile-Software-Engineering-assignment/blob/main/class%20diagram.png))
